@@ -19,13 +19,14 @@ VENDURL="${DESTREPO}"
 wget -qO ${BRANCH} ${REPO}/archive/${BRANCH}.zip
 unzip -q ${BRANCH}; rm -f ${BRANCH}
 DISTR=$(date +%Y%m%d)
-ARCHIVE=${BASENAME}-${BRANCH}-${DISTR}.zip
-zip -qr ${ARCHIVE} ${BASENAME}-${BRANCH}/*.conf
-rm -rf ${BASENAME}-${BRANCH}
+ARCHIVE=${BASENAME}-${DISTR}.zip
+mv ${BASENAME}-${BRANCH} ${BASENAME}
+zip -qr ${ARCHIVE} ${BASENAME}/*.conf
+rm -rf ${BASENAME}
 MD5SUM=$(md5sum ${ARCHIVE}|awk '{print $1}')
 SHA512SUM=$(sha512sum ${ARCHIVE}|awk '{print $1}')
 
-YAMLFILE=meta_${BASENAME}-${BRANCH}.yaml
+YAMLFILE=meta_${BASENAME}.yaml
 (
 	echo "--- "
 	for MODSECVER in 2.9.0 2.9.2; do
