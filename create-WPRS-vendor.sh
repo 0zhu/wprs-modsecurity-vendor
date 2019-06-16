@@ -27,25 +27,25 @@ SHA512SUM=$(sha512sum ${ARCHIVE}|awk '{print $1}')
 
 YAMLFILE=meta_${BASENAME}-${BRANCH}.yaml
 (
-	echo ---
+	echo "--- "
 	for MODSECVER in 2.9.0 2.9.2; do
-		echo ${MODSECVER}:
+		echo "${MODSECVER}: "
 		echo "  MD5: ${MD5SUM}"
 		echo "  SHA512: ${SHA512SUM}"
 		echo "  distribution: ${DISTR}"
 		echo "  url: ${DESTREPO}/raw/${DESTBRANCH}/${ARCHIVE}"
 	done
 	for MODSECVER in 2.9.3 2.9.4 2.9.5 2.9.6 2.9.7 3.0.0 3.0.1 3.0.2 3.0.3 3.0.4; do
-		echo ${MODSECVER}:
+		echo "${MODSECVER}: "
 		echo "  MD5: ${MD5SUM}"
 		echo "  SHA512: ${SHA512SUM}"
 		echo "  defaulted: 1"
 		echo "  distribution: ${DISTR}"
 		echo "  url: ${DESTREPO}/raw/${DESTBRANCH}/${ARCHIVE}"
 	done
-	echo attributes:
-	echo "  description: '${VENDESC}'"
-	echo "  name: '${VENDNAME}'"
+	echo "attributes: "
+	echo "  description: ${VENDESC}"
+	echo "  name: ${VENDNAME}"
 	echo "  vendor_url: ${VENDURL}"
 ) > ${YAMLFILE}
 echo -e "Archive:\t${ARCHIVE}\nYAML:\t\t${YAMLFILE}"
