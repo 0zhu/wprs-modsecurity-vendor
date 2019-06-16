@@ -1,0 +1,75 @@
+--- 
+2.9.0: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.2: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.3: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.4: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.5: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.6: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+2.9.7: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+3.0.0: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+3.0.1: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+3.0.2: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+3.0.3: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+3.0.4: 
+  MD5: 1554e380d30373deabeff55c91b7ae55
+  SHA512: c20d904c2b510720e0f126f789f16ac900878a79a6084e4bc048322c7d62807bf908aa7eec687723ad38600d7ba61ef7cb616ae5f9881f7ca1d3c953099a8d4a
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
+attributes: 
+  description: Modsecurity Vendor created from master branch of https://github.com/Rev3rseSecurity/wordpress-modsecurity-ruleset
+  name: WordPress ModSecurity Rule Set (WPRS)
+  vendor_url: https://github.com/zhubanRuban/wprs-modsecurity-vendor
