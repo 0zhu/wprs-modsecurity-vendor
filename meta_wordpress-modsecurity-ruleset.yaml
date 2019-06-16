@@ -1,71 +1,71 @@
 --- 
 2.9.0: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.2: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.3: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.4: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.5: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.6: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 2.9.7: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 3.0.0: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 3.0.1: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 3.0.2: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 3.0.3: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
 3.0.4: 
-  MD5: 61de6ebc3b9ab28780b0cb2587bdde64
-  SHA512: f1c3e0a83d37242c120fe6b2d85c6656a86d4c522d2da3bc36ae47ce0a59c2855a51ffea8da6c0bd9cb037da7407ab992985d2a9a7f8336a7a4015f24f5d4066
+  MD5: 2176a5758fb7a978146f4123e8ba2cc5
+  SHA512: 3db22314906d86c42c23ebba757557febd2fb37ed74b5e05871dd577b37b3c3f817873b96b5d4fae0b81db379a16b07637f7111b3210378f521a90518804d564
   defaulted: 1
   distribution: 20190616
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-20190616.zip
