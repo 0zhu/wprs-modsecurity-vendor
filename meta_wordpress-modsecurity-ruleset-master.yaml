@@ -71,5 +71,5 @@
   url: https://github.com/zhubanRuban/wprs-modsecurity-vendor/raw/master/wordpress-modsecurity-ruleset-master-20190616.zip
 attributes: 
   description: Modsecurity Vendor created from master branch of https://github.com/Rev3rseSecurity/wordpress-modsecurity-ruleset
-  name: WordPress ModSecurity Rule Set (WPRS)
+  name: WordPress ModSecurity Rule Set WPRS
   vendor_url: https://github.com/zhubanRuban/wprs-modsecurity-vendor
