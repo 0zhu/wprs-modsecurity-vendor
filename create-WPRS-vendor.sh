@@ -16,6 +16,10 @@ VENDESC="Modsecurity Vendor created from ${BRANCH} branch of ${REPO}"
 VENDNAME="WordPress ModSecurity Rule Set (WPRS)"
 VENDURL="${DESTREPO}"
 
+hash wget 2>/dev/null || { echo wget command not found; exit 1; }
+hash zip 2>/dev/null || { echo zip command not found; exit 1; }
+hash unzip 2>/dev/null || { echo unzip command not found; exit 1; }
+
 wget -qO ${BRANCH} ${REPO}/archive/${BRANCH}.zip
 unzip -q ${BRANCH}; rm -f ${BRANCH}
 DISTR=$(date +%Y%m%d)
